@@ -5,7 +5,7 @@
 
 ***
 
-### Tech stack
+## Tech stack
 
 #### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat&logo=javascript&logoColor=black)
