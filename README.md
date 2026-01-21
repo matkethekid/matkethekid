@@ -7,7 +7,7 @@
 
 ## Tech stack
 
-#### Programming Languages
+#### 🧑‍💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white)
 
