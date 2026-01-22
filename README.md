@@ -29,3 +29,4 @@
 
 #### 🚀 DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
