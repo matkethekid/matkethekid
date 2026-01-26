@@ -10,6 +10,7 @@
 #### 🧑‍💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=flat&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7355dd?style=flat&logo=csharp&logoColor=white)
 
 #### 🖌️ Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-ccc?style=flat&logo=next.js&logoColor=black)
@@ -33,5 +34,12 @@
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ### 🛠️ Tools
+![VS](https://img.shields.io/badge/Visual%20Studio-5E438F?style=flat&logo=&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### 🗣️ Languages
+![Serbian](https://img.shields.io/badge/🇷🇸%20Serbian-C6363C?style=flat)
+![English](https://img.shields.io/badge/🇺🇸%20English-3C3B6E?style=flat)
