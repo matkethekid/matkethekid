@@ -35,7 +35,7 @@
 
 ### 🛠️ Tools
 ![VS](https://img.shields.io/badge/Visual%20Studio-5E438F?style=flat&logo=&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-000?style=flat&logo=zedindustries&Color=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-ff2d52?style=flat&logo=rider&logoColor=white)
 
